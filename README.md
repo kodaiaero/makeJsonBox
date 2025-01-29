@@ -14,7 +14,7 @@
 
 ### **1. リポジトリをクローン**
 ```sh
-git clone https://github.com/yourusername/makeJsonBox.git
+git clone https://github.com/kodaiaero/makeJsonBox.git
 cd makeJsonBox
 ```
 
